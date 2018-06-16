@@ -14,7 +14,7 @@ import Foundation
 
 // the journal to log to in Day One
 
-let dayOneJournal = "Daily Log"
+let dayOneJournal = "Daily\\ Log"
 
 // the default tag(s) to add to all entries. If you don't
 // add at least one default tag, you'll have to modify the code below.
