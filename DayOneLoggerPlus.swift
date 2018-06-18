@@ -15,7 +15,7 @@ import Foundation
 // the journal to log to in Day One
 // To use two words insert \\ after the first word, eg: "Daily\\ Log"
 
-let dayOneJournal = "log"
+let dayOneJournal = "Daily\\ Log"
 
 // the default tag(s) to add to all entries. If you don't
 // add at least one default tag, you'll have to modify the code below.
